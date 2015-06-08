@@ -1,0 +1,7 @@
+{
+    "require": {
+        "silex/silex": "^1.3",
+        "twig/twig": "^1.18",
+        "igorw/get-in": "^1.0"
+    }
+}
